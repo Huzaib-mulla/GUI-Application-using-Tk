@@ -1,2 +1,4 @@
 # DBMS-Project
-Sample Project for keeping Books Record.
+
+In this Project we have made an simple GUI Application using Python **Tkinter Library** and we have connect it to MySQL Database using **mysql.connector Library**.
+
